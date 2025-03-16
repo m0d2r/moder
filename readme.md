@@ -7,4 +7,5 @@ LandawasOS is an operating system for cc: tweaks
 3. open your world folder
 4. open computercraft folder
 5. open disk/ or rom/ (on your preference)
-6. place "s
+6. place "startup.lua" to root of the disk/ or rom/
+7. you have done
