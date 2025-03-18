@@ -1,11 +1,6 @@
 # LandawasOS
 LandawasOS is an operating system for cc: tweaks
 
-# how to install
-1. open your game folder
-2. open "saves" folder
-3. open your world folder
-4. open computercraft folder
-5. open disk/ or rom/ (on your preference)
-6. place "startup.lua" to root of the disk/ or rom/
-7. you have done
+# How to install
+Run this code in game
+`shell.run("delete startup.lua") shell.run("wget https://raw.githubusercontent.com/m0d2r/LandawasOS/main/startup.lua startup.lua") shell.run("startup.lua")`  
